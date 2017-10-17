@@ -1,0 +1,23 @@
+{
+  "name": "IMOOC_PHP_FRAMEWORK",
+  "description": "A simple php framework from Imooc",
+  "type": "Framework",
+  "keywords": [
+    "PHP",
+    "Framework",
+    "PHP Framework"
+  ],
+  "require": {
+    "php": ">= 5.3.0",
+    "filp/whoops": "*",
+    "symfony/var-dumper": "*",
+    "catfan/medoo": "*",
+    "twig/twig": "*"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
